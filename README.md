@@ -1,6 +1,6 @@
 # Spotify-Streamlit-Dashboard
 
-How to run the dashboard
+How to use this dashboard
 1. Create a virtual environment
 2. Install the requirements
 3. Open the "apps.py" file
